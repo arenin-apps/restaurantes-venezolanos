@@ -1834,6 +1834,19 @@
     "longitude": -0.1173056
   },
   {
+    "id": "the-empanadas-shop-liverpool",
+    "nombre": "The Empanadas Shop – Liverpool",
+    "pais": "Inglaterra",
+    "county": "Merseyside",
+    "direccion": null,
+    "mapsUrl": null,
+    "telefono": null,
+    "sitioWeb": "https://www.google.com/search?q=the+empanadas+shop+liverpool&rlz=1C1UEAD_en-GBGB1190GB1190&oq=the+empanadas+shop+liverpool&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yBwgCEAAY7wUyBwgDEAAY7wUyCggEEAAYgAQYogQyBwgFEAAY7wUyCggGEAAYgAQYogTSAQgzNzUxajBqNKgCALACAQ&sourceid=chrome&source=chrome.ob&ie=UTF-8#sv=CAwSiAMKBmxjbF9wdhI-CgNwdnESN0NnMHZaeTh4TVhnMlh6RnpkelZ1SWhnS0VuUm9aU0JsYlhCaGJtRmtZWE1nYzJodmNCQUNHQU0S8gEKA2xxaRLqAUNoeDBhR1VnWlcxd1lXNWhaR0Z6SUhOb2IzQWdiR2wyWlhKd2IyOXNTTFRaOGZDYnZJQ0FDRm91RUFBUUFSQUNHQUVZQXlJY2RHaGxJR1Z0Y0dGdVlXUmhjeUJ6YUc5d0lHeHBkbVZ5Y0c5dmJDb0VDQU1RQXBJQkJtSmhhMlZ5ZVpvQlJFTnBPVVJSVld4U1VWVk9kbHBGVG05a1NHeHFVbXBzZGxReU1YSk9WWGhZVkd0c2JGSkZXalJaYlhjMVlrZFdjVmRyZUZwV1ZYQlJWREZrTkZKc1JuVlplRUZDLWdFRUNBQVFTURISCgN0YnMSC2xyZjohM3NJQUU9EiEKAXESHHRoZSBlbXBhbmFkYXMgc2hvcCBsaXZlcnBvb2waEmxvY2FsLXBsYWNlLXZpZXdlchgKIMbVzbAP",
+    "redes": [],
+    "categoria": "Empanadas",
+    "fechaAgregado": "2026-08-25"
+  },
+  {
     "id": "wild-tango",
     "nombre": "Wild Tango",
     "pais": "Inglaterra",
