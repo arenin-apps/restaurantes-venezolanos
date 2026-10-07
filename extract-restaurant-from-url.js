@@ -78,7 +78,7 @@ async function fetchPageText(url) {
     // renderizado que ya usa la agenda para sitios difíciles.
     console.log(`⚠️ Fetch directo falló (${err.message}). Reintentando vía proxy de renderizado...`);
     const proxyRes = await fetch(`https://r.jina.ai/${url}`, {
-      headers: { 'User-Agent': 'Mozilla/5.0 (compatible; ARenINBot/1.0)' }
+      headers: { 'User-Agent': 'Mozilla/5.0 (compatible; VENenINBot/1.0)' }
     });
     if (!proxyRes.ok) {
       throw new Error(`El proxy de renderizado tampoco pudo acceder a ${url} (status ${proxyRes.status})`);
@@ -89,7 +89,7 @@ async function fetchPageText(url) {
 }
 
 function buildPrompt(url, pageText) {
-  return `Sos un asistente que extrae datos de restaurantes argentinos en el Reino Unido a partir del texto de su sitio web.
+  return `Sos un asistente que extrae datos de restaurantes venezolanos en el Reino Unido a partir del texto de su sitio web.
 
 URL de origen: ${url}
 
@@ -103,14 +103,14 @@ IMPORTANTE: esta página puede mencionar UN SOLO local, o VARIOS locales de la m
 Devolvé EXCLUSIVAMENTE un arreglo JSON (sin markdown, sin texto adicional), con un objeto por cada local físico encontrado, con esta forma exacta:
 [
   {
-    "nombre": "Nombre del restaurante — si hay más de un local, agregá el barrio/zona para diferenciarlos, ej: 'De Nadas Empanadas – Notting Hill'",
+    "nombre": "Nombre del restaurante — si hay más de un local, agregá el barrio/zona para diferenciarlos, ej: 'Arepera Ejemplo – Notting Hill'",
     "direccion": "Dirección completa de ESE local incluyendo código postal, o null si no se encuentra",
     "pais": "uno de: Inglaterra, Escocia, Gales, Irlanda del Norte, o null si no se puede determinar",
     "county": "condado/county del Reino Unido correspondiente a la dirección de ESE local, o null si no se puede determinar",
     "telefono": "número de teléfono de ESE local si se especifica uno distinto, o el general si es el único que hay, o null",
     "sitioWeb": "${url}",
     "redes": [{"plataforma": "Instagram", "handle": "@usuario"}],
-    "categoria": "tipo de cocina/oferta si es identificable, ej: Parrilla, Empanadas, Steak Sandwiches, Café/Pastelería, Panadería, Delivery, Restaurante, o null"
+    "categoria": "tipo de cocina/oferta si es identificable, ej: Arepas, Cachapas, Parrilla, Café/Pastelería, Panadería, Delivery, Restaurante, o null"
   }
 ]
 
