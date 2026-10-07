@@ -18,7 +18,7 @@ const DATA_PATH = path.join(__dirname, 'restaurants.json');
 // Nominatim pide como máximo 1 solicitud por segundo y un User-Agent
 // identificable — si no se respeta, empieza a bloquear pedidos.
 const DELAY_MS = 1100;
-const USER_AGENT = 'ARenIN-RestaurantesArgentinosUK/1.0 (arenin.uk)';
+const USER_AGENT = 'VENenIN-RestaurantesVenezolanosUK/1.0 (venenin.uk)';
 
 function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
