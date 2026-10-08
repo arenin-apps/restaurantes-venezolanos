@@ -285,6 +285,19 @@
     "longitude": -0.0992286
   },
   {
+    "id": "manacambs-arepas",
+    "nombre": "ManaCambs – Arepas",
+    "pais": "Inglaterra",
+    "county": "Cambridgeshire",
+    "direccion": "Market Hill, Cambridge, CB1 0SS",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=ManaCambs%20Arepas%20Market%20Hill%2C%20Cambridge%2C%20CB1%200SS",
+    "telefono": "+44 7821 188252",
+    "sitioWeb": null,
+    "redes": [],
+    "categoria": "Arepas",
+    "fechaAgregado": "2026-10-08"
+  },
+  {
     "id": "mi-cocina-es-tuya",
     "nombre": "Mi Cocina Es Tuya",
     "pais": "Inglaterra",
