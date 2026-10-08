@@ -163,35 +163,5 @@
     "fechaAgregado": "2026-10-08",
     "latitude": 51.4911065,
     "longitude": 0.0689731
-  },
-  {
-    "id": "streat-arepas",
-    "nombre": "Streat Arepas",
-    "pais": "Inglaterra",
-    "county": "Greater London",
-    "direccion": "Unit M165, Waterside Halls, Camden Market, Hawley Wharf, London, NW1 8AF",
-    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Unit%20M165%2C%20Waterside%20Halls%2C%20Camden%20Market%2C%20Hawley%20Wharf%2C%20London%2C%20NW1%208AF",
-    "telefono": null,
-    "sitioWeb": null,
-    "redes": [],
-    "categoria": "Arepas",
-    "fechaAgregado": "2026-10-08",
-    "latitude": 51.5413104,
-    "longitude": -0.1464357
-  },
-  {
-    "id": "tropidog",
-    "nombre": "Tropidog",
-    "pais": "Inglaterra",
-    "county": "Greater London",
-    "direccion": "Unit M135, Water Lane, Hawley Wharf, Camden Town, London, NW1 8JZ",
-    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Unit%20M135%2C%20Water%20Lane%2C%20Hawley%20Wharf%2C%20Camden%20Town%2C%20London%2C%20NW1%208JZ",
-    "telefono": null,
-    "sitioWeb": null,
-    "redes": [],
-    "categoria": "Comida rápida",
-    "fechaAgregado": "2026-10-08",
-    "latitude": 51.5418204,
-    "longitude": -0.1443802
   }
 ]
