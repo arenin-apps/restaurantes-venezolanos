@@ -205,6 +205,8 @@
     "sitioWeb": null,
     "redes": [],
     "categoria": "Restaurante",
-    "fechaAgregado": "2026-10-08"
+    "fechaAgregado": "2026-10-08",
+    "latitude": 55.9582634,
+    "longitude": -3.2095901
   }
 ]
