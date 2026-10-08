@@ -295,7 +295,9 @@
     "sitioWeb": null,
     "redes": [],
     "categoria": "Arepas",
-    "fechaAgregado": "2026-10-08"
+    "fechaAgregado": "2026-10-08",
+    "latitude": 52.2050986,
+    "longitude": 0.1192193
   },
   {
     "id": "mi-cocina-es-tuya",
