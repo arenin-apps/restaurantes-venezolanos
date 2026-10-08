@@ -60,21 +60,6 @@
     "longitude": -0.0801256
   },
   {
-    "id": "arepas-deli",
-    "nombre": "Arepas & Deli",
-    "pais": "Inglaterra",
-    "county": "Greater London",
-    "direccion": "Temple Pier, Victoria Embankment, London, WC2R 2PN",
-    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Temple%20Pier%2C%20Victoria%20Embankment%2C%20London%2C%20WC2R%202PN",
-    "telefono": "+44 7734 404105",
-    "sitioWeb": null,
-    "redes": [],
-    "categoria": "Deli",
-    "fechaAgregado": "2026-10-08",
-    "latitude": 51.5103975,
-    "longitude": -0.1147009
-  },
-  {
     "id": "arepazo-bros",
     "nombre": "Arepazo Bros",
     "pais": "Inglaterra",
@@ -148,36 +133,6 @@
     "fechaAgregado": "2026-10-08",
     "latitude": 51.416521,
     "longitude": -0.1817248
-  },
-  {
-    "id": "los-chamos-elephant-castle",
-    "nombre": "Los Chamos – Elephant & Castle",
-    "pais": "Inglaterra",
-    "county": "Greater London",
-    "direccion": "Arch 145, Eagle Yard, Hampton Street, Elephant & Castle, London, SE1 6SP",
-    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Arch%20145%2C%20Eagle%20Yard%2C%20Hampton%20Street%2C%20Elephant%20%26%20Castle%2C%20London%2C%20SE1%206SP",
-    "telefono": null,
-    "sitioWeb": null,
-    "redes": [],
-    "categoria": "Restaurante",
-    "fechaAgregado": "2026-10-08",
-    "latitude": 51.4926809,
-    "longitude": -0.0992286
-  },
-  {
-    "id": "los-chamos-new-cross",
-    "nombre": "Los Chamos – New Cross",
-    "pais": "Inglaterra",
-    "county": "Greater London",
-    "direccion": "181 New Cross Road, London, SE14 5DG",
-    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=181%20New%20Cross%20Road%2C%20London%2C%20SE14%205DG",
-    "telefono": null,
-    "sitioWeb": null,
-    "redes": [],
-    "categoria": "Restaurante",
-    "fechaAgregado": "2026-10-08",
-    "latitude": 51.4747363,
-    "longitude": -0.0462584
   },
   {
     "id": "mi-cocina-es-tuya",
