@@ -533,5 +533,18 @@
     "fechaAgregado": "2026-10-08",
     "latitude": 51.5583013,
     "longitude": -0.1181864
+  },
+  {
+    "id": "venezy",
+    "nombre": "Venezy",
+    "pais": "Inglaterra",
+    "county": "Dorset",
+    "direccion": "63 Commercial Road, Bournemouth, BH2 5RH",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Venezy%2063%20Commercial%20Road%2C%20Bournemouth%2C%20BH2%205RH",
+    "telefono": "+44 7494 273817",
+    "sitioWeb": null,
+    "redes": [],
+    "categoria": "Hamburguesas",
+    "fechaAgregado": "2026-10-08"
   }
 ]
