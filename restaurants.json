@@ -4,12 +4,12 @@
     "nombre": "Arepa & Co – Bethnal Green",
     "pais": "Inglaterra",
     "county": "Greater London",
-    "direccion": null,
-    "mapsUrl": null,
+    "direccion": "254 Paradise Row, London, E2 9LE",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=254%20Paradise%20Row%2C%20London%2C%20E2%209LE",
     "telefono": null,
     "sitioWeb": "https://www.arepaandco.com/",
     "redes": [],
-    "categoria": "Restaurante",
+    "categoria": "Arepas",
     "fechaAgregado": "2026-10-08"
   },
   {
@@ -17,12 +17,12 @@
     "nombre": "Arepa & Co – Brixton",
     "pais": "Inglaterra",
     "county": "Greater London",
-    "direccion": null,
-    "mapsUrl": null,
+    "direccion": "14BC Market Row, Brixton Villa Market, London, SW9 8LD",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=14BC%20Market%20Row%2C%20Brixton%20Villa%20Market%2C%20London%2C%20SW9%208LD",
     "telefono": null,
     "sitioWeb": "https://www.arepaandco.com/",
     "redes": [],
-    "categoria": "Restaurante",
+    "categoria": "Arepas",
     "fechaAgregado": "2026-10-08"
   },
   {
@@ -30,12 +30,12 @@
     "nombre": "Arepa & Co – Elephant & Castle",
     "pais": "Inglaterra",
     "county": "Greater London",
-    "direccion": null,
-    "mapsUrl": null,
+    "direccion": "8 Ash Avenue, London, SE17 1GQ",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=8%20Ash%20Avenue%2C%20London%2C%20SE17%201GQ",
     "telefono": null,
     "sitioWeb": "https://www.arepaandco.com/",
     "redes": [],
-    "categoria": "Restaurante",
+    "categoria": "Arepas",
     "fechaAgregado": "2026-10-08"
   },
   {
@@ -43,12 +43,12 @@
     "nombre": "Arepa & Co – Haggerston",
     "pais": "Inglaterra",
     "county": "Greater London",
-    "direccion": null,
-    "mapsUrl": null,
+    "direccion": "58a De Beauvoir Crescent, London, N1 5SB",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=58a%20De%20Beauvoir%20Crescent%2C%20London%2C%20N1%205SB",
     "telefono": null,
     "sitioWeb": "https://www.arepaandco.com/",
     "redes": [],
-    "categoria": "Restaurante",
+    "categoria": "Arepas",
     "fechaAgregado": "2026-10-08"
   }
 ]
