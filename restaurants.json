@@ -105,7 +105,9 @@
     "sitioWeb": null,
     "redes": [],
     "categoria": "Arepas",
-    "fechaAgregado": "2026-10-08"
+    "fechaAgregado": "2026-10-08",
+    "latitude": 51.3621293,
+    "longitude": -0.4576218
   },
   {
     "id": "arepazo-bros",
@@ -118,7 +120,9 @@
     "sitioWeb": "http://arepazobros.co.uk/",
     "redes": [],
     "categoria": "Comida rápida",
-    "fechaAgregado": "2026-10-08"
+    "fechaAgregado": "2026-10-08",
+    "latitude": 51.541403,
+    "longitude": -0.1463108
   },
   {
     "id": "avila-london",
@@ -136,7 +140,9 @@
       }
     ],
     "categoria": "Arepas",
-    "fechaAgregado": "2026-10-08"
+    "fechaAgregado": "2026-10-08",
+    "latitude": 51.52029,
+    "longitude": -0.10971
   },
   {
     "id": "cha-cha-take-away",
@@ -244,7 +250,9 @@
       }
     ],
     "categoria": "Arepas",
-    "fechaAgregado": "2026-10-08"
+    "fechaAgregado": "2026-10-08",
+    "latitude": 51.4926809,
+    "longitude": -0.0992286
   },
   {
     "id": "mi-cocina-es-tuya",
@@ -302,7 +310,9 @@
     "sitioWeb": "http://www.pabellon.co.uk/",
     "redes": [],
     "categoria": "Restaurante",
-    "fechaAgregado": "2026-10-08"
+    "fechaAgregado": "2026-10-08",
+    "latitude": 51.5057791,
+    "longitude": -0.116787
   },
   {
     "id": "papelon-leather-lane",
@@ -320,7 +330,9 @@
       }
     ],
     "categoria": "Arepas",
-    "fechaAgregado": "2026-10-08"
+    "fechaAgregado": "2026-10-08",
+    "latitude": 51.5208932,
+    "longitude": -0.1097394
   },
   {
     "id": "papelon-netil-house",
@@ -338,7 +350,9 @@
       }
     ],
     "categoria": "Arepas",
-    "fechaAgregado": "2026-10-08"
+    "fechaAgregado": "2026-10-08",
+    "latitude": 51.5376211,
+    "longitude": -0.057731
   },
   {
     "id": "papelon-notting-hill",
@@ -356,7 +370,9 @@
       }
     ],
     "categoria": "Arepas",
-    "fechaAgregado": "2026-10-08"
+    "fechaAgregado": "2026-10-08",
+    "latitude": 51.5177779,
+    "longitude": -0.2102755
   },
   {
     "id": "papelon-portobello",
@@ -374,7 +390,9 @@
       }
     ],
     "categoria": "Arepas",
-    "fechaAgregado": "2026-10-08"
+    "fechaAgregado": "2026-10-08",
+    "latitude": 51.5192086,
+    "longitude": -0.206913
   },
   {
     "id": "peter-s-panas",
