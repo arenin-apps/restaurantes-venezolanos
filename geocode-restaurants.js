@@ -24,8 +24,8 @@ function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
-async function geocode(direccion) {
-  const url = `https://nominatim.openstreetmap.org/search?format=json&limit=1&countrycodes=gb&q=${encodeURIComponent(direccion)}`;
+async function geocodeUna(consulta) {
+  const url = `https://nominatim.openstreetmap.org/search?format=json&limit=1&countrycodes=gb&q=${encodeURIComponent(consulta)}`;
   const res = await fetch(url, { headers: { 'User-Agent': USER_AGENT } });
   if (!res.ok) throw new Error(`HTTP ${res.status}`);
   const results = await res.json();
@@ -34,6 +34,17 @@ async function geocode(direccion) {
     latitude: parseFloat(results[0].lat),
     longitude: parseFloat(results[0].lon)
   };
+}
+
+// Si la direccion completa no da resultados (ej. lleva el nombre de un
+// mercado o centro comercial), reintenta solo con el codigo postal.
+async function geocode(direccion) {
+  const porDireccion = await geocodeUna(direccion);
+  if (porDireccion) return porDireccion;
+  const cp = direccion.match(/[A-Z]{1,2}\d[A-Z\d]?\s*\d[A-Z]{2}/i);
+  if (!cp) return null;
+  await sleep(DELAY_MS);
+  return geocodeUna(cp[0] + ', UK');
 }
 
 async function main() {
