@@ -10,7 +10,9 @@
     "sitioWeb": null,
     "redes": [],
     "categoria": "Restaurante",
-    "fechaAgregado": "2026-10-08"
+    "fechaAgregado": "2026-10-08",
+    "latitude": 53.4008419,
+    "longitude": -2.9760742
   },
   {
     "id": "arepa-co-bethnal-green",
