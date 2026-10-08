@@ -210,6 +210,19 @@
     "longitude": -2.2273998
   },
   {
+    "id": "noso",
+    "nombre": "NOSO",
+    "pais": "Inglaterra",
+    "county": "Merseyside",
+    "direccion": "215 Longmoor Lane, Liverpool, L9 0ED",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=NOSO%20215%20Longmoor%20Lane%2C%20Liverpool%2C%20L9%200ED",
+    "telefono": null,
+    "sitioWeb": null,
+    "redes": [],
+    "categoria": "Arepas",
+    "fechaAgregado": "2026-10-08"
+  },
+  {
     "id": "peter-s-panas",
     "nombre": "Peter's Panas",
     "pais": "Inglaterra",
