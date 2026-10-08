@@ -215,7 +215,9 @@
       }
     ],
     "categoria": "Arepas",
-    "fechaAgregado": "2026-10-08"
+    "fechaAgregado": "2026-10-08",
+    "latitude": 51.4926809,
+    "longitude": -0.0992286
   },
   {
     "id": "mi-cocina-es-tuya",
