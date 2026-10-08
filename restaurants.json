@@ -1,5 +1,18 @@
 [
   {
+    "id": "19-blvd",
+    "nombre": "19 BLVD",
+    "pais": "Inglaterra",
+    "county": "Merseyside",
+    "direccion": "50 Berry Street, Liverpool, L1 4JQ",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=19%20BLVD%2050%20Berry%20Street%2C%20Liverpool%2C%20L1%204JQ",
+    "telefono": null,
+    "sitioWeb": null,
+    "redes": [],
+    "categoria": "Restaurante",
+    "fechaAgregado": "2026-10-08"
+  },
+  {
     "id": "arepa-co-bethnal-green",
     "nombre": "Arepa & Co – Bethnal Green",
     "pais": "Inglaterra",
