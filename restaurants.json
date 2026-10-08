@@ -263,6 +263,19 @@
     "longitude": -0.0900949
   },
   {
+    "id": "la-tiendita-del-sabor",
+    "nombre": "La Tiendita del Sabor",
+    "pais": "Escocia",
+    "county": "Aberdeen City",
+    "direccion": "8 Belmont Street, Aberdeen, AB10 1JE",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20Tiendita%20del%20Sabor%208%20Belmont%20Street%2C%20Aberdeen%2C%20AB10%201JE",
+    "telefono": null,
+    "sitioWeb": null,
+    "redes": [],
+    "categoria": "Restaurante",
+    "fechaAgregado": "2026-10-08"
+  },
+  {
     "id": "liqui-liqui",
     "nombre": "Liqui Liqui",
     "pais": "Inglaterra",
