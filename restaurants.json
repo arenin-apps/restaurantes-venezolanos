@@ -193,5 +193,18 @@
     "fechaAgregado": "2026-10-08",
     "latitude": 51.4911065,
     "longitude": 0.0689731
+  },
+  {
+    "id": "sabor-criollo",
+    "nombre": "Sabor Criollo",
+    "pais": "Escocia",
+    "county": "City of Edinburgh",
+    "direccion": "36 Deanhaugh Street, Edinburgh, EH4 1LY",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=36%20Deanhaugh%20Street%2C%20Edinburgh%2C%20EH4%201LY",
+    "telefono": "+44 131 332 3322",
+    "sitioWeb": null,
+    "redes": [],
+    "categoria": "Restaurante",
+    "fechaAgregado": "2026-10-08"
   }
 ]
