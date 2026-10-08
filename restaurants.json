@@ -185,7 +185,9 @@
     "sitioWeb": "http://www.elpollote.co.uk/",
     "redes": [],
     "categoria": "Restaurante",
-    "fechaAgregado": "2026-10-08"
+    "fechaAgregado": "2026-10-08",
+    "latitude": 51.5129768,
+    "longitude": -0.13887
   },
   {
     "id": "guasa",
@@ -243,7 +245,9 @@
     "sitioWeb": "https://lapepialdn.com/",
     "redes": [],
     "categoria": "Arepas",
-    "fechaAgregado": "2026-10-08"
+    "fechaAgregado": "2026-10-08",
+    "latitude": 51.5054318,
+    "longitude": -0.0900949
   },
   {
     "id": "liqui-liqui",
@@ -351,7 +355,9 @@
     "sitioWeb": "http://www.peterspanas.com/",
     "redes": [],
     "categoria": "Arepas",
-    "fechaAgregado": "2026-10-08"
+    "fechaAgregado": "2026-10-08",
+    "latitude": 51.5131967,
+    "longitude": 0.0062899
   },
   {
     "id": "papelon-leather-lane",
@@ -464,7 +470,9 @@
       }
     ],
     "categoria": "Restaurante",
-    "fechaAgregado": "2026-10-08"
+    "fechaAgregado": "2026-10-08",
+    "latitude": 51.4871568,
+    "longitude": -0.0949395
   },
   {
     "id": "sabor-criollo",
@@ -492,7 +500,9 @@
     "sitioWeb": "https://streatarepas.co.uk/",
     "redes": [],
     "categoria": "Arepas",
-    "fechaAgregado": "2026-10-08"
+    "fechaAgregado": "2026-10-08",
+    "latitude": 51.5151226,
+    "longitude": -0.0969109
   },
   {
     "id": "the-upper-place",
@@ -505,6 +515,8 @@
     "sitioWeb": "http://theupperplace.co.uk/",
     "redes": [],
     "categoria": "Restaurante",
-    "fechaAgregado": "2026-10-08"
+    "fechaAgregado": "2026-10-08",
+    "latitude": 51.5583013,
+    "longitude": -0.1181864
   }
 ]
