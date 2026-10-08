@@ -200,6 +200,24 @@
     "longitude": -0.1817248
   },
   {
+    "id": "los-chamos",
+    "nombre": "Los Chamos",
+    "pais": "Inglaterra",
+    "county": "Greater London",
+    "direccion": "Arch 145, Eagle Yard, Hampton Street, Elephant & Castle, London, SE1 6SP",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Arch%20145%2C%20Eagle%20Yard%2C%20Hampton%20Street%2C%20Elephant%20%26%20Castle%2C%20London%2C%20SE1%206SP",
+    "telefono": null,
+    "sitioWeb": null,
+    "redes": [
+      {
+        "plataforma": "Instagram",
+        "handle": "@loschamos.uk"
+      }
+    ],
+    "categoria": "Arepas",
+    "fechaAgregado": "2026-10-08"
+  },
+  {
     "id": "mi-cocina-es-tuya",
     "nombre": "Mi Cocina Es Tuya",
     "pais": "Inglaterra",
