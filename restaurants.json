@@ -75,6 +75,24 @@
     "longitude": -0.0801256
   },
   {
+    "id": "arepa-2go",
+    "nombre": "Arepa 2GO",
+    "pais": "Inglaterra",
+    "county": "Hampshire",
+    "direccion": "60B Victoria Road South, Southsea, PO5 2BT",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=60B%20Victoria%20Road%20South%2C%20Southsea%2C%20PO5%202BT",
+    "telefono": "+44 23 9279 1746",
+    "sitioWeb": "https://arepa2go.net/",
+    "redes": [
+      {
+        "plataforma": "Instagram",
+        "handle": "@arepa2go"
+      }
+    ],
+    "categoria": "Arepas",
+    "fechaAgregado": "2026-10-08"
+  },
+  {
     "id": "arepazo-bros",
     "nombre": "Arepazo Bros",
     "pais": "Inglaterra",
