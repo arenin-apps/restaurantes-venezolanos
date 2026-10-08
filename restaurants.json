@@ -90,7 +90,9 @@
       }
     ],
     "categoria": "Arepas",
-    "fechaAgregado": "2026-10-08"
+    "fechaAgregado": "2026-10-08",
+    "latitude": 50.7853662,
+    "longitude": -1.0833617
   },
   {
     "id": "arepazo-bros",
