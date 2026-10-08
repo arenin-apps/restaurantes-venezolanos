@@ -25,7 +25,9 @@
     "sitioWeb": "https://www.arepaandco.com/",
     "redes": [],
     "categoria": "Arepas",
-    "fechaAgregado": "2026-10-08"
+    "fechaAgregado": "2026-10-08",
+    "latitude": 51.4619264,
+    "longitude": -0.1132036
   },
   {
     "id": "arepa-co-elephant-castle",
