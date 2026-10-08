@@ -75,6 +75,19 @@
     "longitude": -0.1464357
   },
   {
+    "id": "cha-cha-take-away",
+    "nombre": "Cha Cha Take Away",
+    "pais": "Inglaterra",
+    "county": "Greater Manchester",
+    "direccion": "789 Stockport Road, Manchester, M19 3DL",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=789%20Stockport%20Road%2C%20Manchester%2C%20M19%203DL",
+    "telefono": "+44 161 257 0765",
+    "sitioWeb": null,
+    "redes": [],
+    "categoria": "Comida rápida",
+    "fechaAgregado": "2026-10-08"
+  },
+  {
     "id": "conuco-venezuelan-kitchen",
     "nombre": "Conuco – Venezuelan Kitchen",
     "pais": "Inglaterra",
@@ -148,6 +161,19 @@
     "fechaAgregado": "2026-10-08",
     "latitude": 51.4180633,
     "longitude": -0.0820688
+  },
+  {
+    "id": "mia-s-arepas",
+    "nombre": "Mia's Arepas",
+    "pais": "Inglaterra",
+    "county": "Greater Manchester",
+    "direccion": "58 Baring Street, Manchester, M1 2PY",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=58%20Baring%20Street%2C%20Manchester%2C%20M1%202PY",
+    "telefono": "+44 7519 225035",
+    "sitioWeb": null,
+    "redes": [],
+    "categoria": "Arepas",
+    "fechaAgregado": "2026-10-08"
   },
   {
     "id": "peter-s-panas",
