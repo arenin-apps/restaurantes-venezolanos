@@ -135,6 +135,19 @@
     "longitude": -0.098174
   },
   {
+    "id": "la-bodega",
+    "nombre": "La Bodega",
+    "pais": "Escocia",
+    "county": "Glasgow City",
+    "direccion": "98 Bellgrove Street, Glasgow, G31 1AA",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=98%20Bellgrove%20Street%2C%20Glasgow%2C%20G31%201AA",
+    "telefono": null,
+    "sitioWeb": "https://www.labodegaglasgow.co.uk/",
+    "redes": [],
+    "categoria": "Arepas",
+    "fechaAgregado": "2026-10-08"
+  },
+  {
     "id": "liqui-liqui",
     "nombre": "Liqui Liqui",
     "pais": "Inglaterra",
