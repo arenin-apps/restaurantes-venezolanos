@@ -85,7 +85,9 @@
     "sitioWeb": null,
     "redes": [],
     "categoria": "Comida rápida",
-    "fechaAgregado": "2026-10-08"
+    "fechaAgregado": "2026-10-08",
+    "latitude": 53.4466914,
+    "longitude": -2.1913294
   },
   {
     "id": "conuco-venezuelan-kitchen",
@@ -173,7 +175,9 @@
     "sitioWeb": null,
     "redes": [],
     "categoria": "Arepas",
-    "fechaAgregado": "2026-10-08"
+    "fechaAgregado": "2026-10-08",
+    "latitude": 53.474679,
+    "longitude": -2.2273998
   },
   {
     "id": "peter-s-panas",
