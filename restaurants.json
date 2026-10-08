@@ -170,7 +170,9 @@
     "sitioWeb": null,
     "redes": [],
     "categoria": "Comida callejera",
-    "fechaAgregado": "2026-10-08"
+    "fechaAgregado": "2026-10-08",
+    "latitude": 53.8184827,
+    "longitude": -3.0512327
   },
   {
     "id": "conuco-venezuelan-kitchen",
@@ -273,7 +275,9 @@
     "sitioWeb": null,
     "redes": [],
     "categoria": "Restaurante",
-    "fechaAgregado": "2026-10-08"
+    "fechaAgregado": "2026-10-08",
+    "latitude": 57.1463615,
+    "longitude": -2.100726
   },
   {
     "id": "liqui-liqui",
@@ -571,6 +575,8 @@
     "sitioWeb": null,
     "redes": [],
     "categoria": "Hamburguesas",
-    "fechaAgregado": "2026-10-08"
+    "fechaAgregado": "2026-10-08",
+    "latitude": 50.7203915,
+    "longitude": -1.8825937
   }
 ]
