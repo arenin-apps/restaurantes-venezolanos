@@ -160,6 +160,19 @@
     "longitude": -2.1913294
   },
   {
+    "id": "chamo-street-food-blackpool",
+    "nombre": "Chamo Street Food – Blackpool (Abingdon Street Market)",
+    "pais": "Inglaterra",
+    "county": "Lancashire",
+    "direccion": "16-20 Abingdon Street, Blackpool, FY1 1DR",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chamo%20Street%20Food%2016-20%20Abingdon%20Street%2C%20Blackpool%2C%20FY1%201DR",
+    "telefono": null,
+    "sitioWeb": null,
+    "redes": [],
+    "categoria": "Comida callejera",
+    "fechaAgregado": "2026-10-08"
+  },
+  {
     "id": "conuco-venezuelan-kitchen",
     "nombre": "Conuco – Venezuelan Kitchen",
     "pais": "Inglaterra",
