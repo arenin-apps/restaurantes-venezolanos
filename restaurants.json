@@ -1,1 +1,54 @@
-[]
+[
+  {
+    "id": "arepa-co-bethnal-green",
+    "nombre": "Arepa & Co – Bethnal Green",
+    "pais": "Inglaterra",
+    "county": "Greater London",
+    "direccion": null,
+    "mapsUrl": null,
+    "telefono": null,
+    "sitioWeb": "https://www.arepaandco.com/",
+    "redes": [],
+    "categoria": "Restaurante",
+    "fechaAgregado": "2026-10-08"
+  },
+  {
+    "id": "arepa-co-brixton",
+    "nombre": "Arepa & Co – Brixton",
+    "pais": "Inglaterra",
+    "county": "Greater London",
+    "direccion": null,
+    "mapsUrl": null,
+    "telefono": null,
+    "sitioWeb": "https://www.arepaandco.com/",
+    "redes": [],
+    "categoria": "Restaurante",
+    "fechaAgregado": "2026-10-08"
+  },
+  {
+    "id": "arepa-co-elephant-castle",
+    "nombre": "Arepa & Co – Elephant & Castle",
+    "pais": "Inglaterra",
+    "county": "Greater London",
+    "direccion": null,
+    "mapsUrl": null,
+    "telefono": null,
+    "sitioWeb": "https://www.arepaandco.com/",
+    "redes": [],
+    "categoria": "Restaurante",
+    "fechaAgregado": "2026-10-08"
+  },
+  {
+    "id": "arepa-co-haggerston",
+    "nombre": "Arepa & Co – Haggerston",
+    "pais": "Inglaterra",
+    "county": "Greater London",
+    "direccion": null,
+    "mapsUrl": null,
+    "telefono": null,
+    "sitioWeb": "https://www.arepaandco.com/",
+    "redes": [],
+    "categoria": "Restaurante",
+    "fechaAgregado": "2026-10-08"
+  }
+]
