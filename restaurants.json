@@ -175,6 +175,19 @@
     "longitude": -0.1113335
   },
   {
+    "id": "el-pollote-carnaby",
+    "nombre": "El Pollote – Carnaby",
+    "pais": "Inglaterra",
+    "county": "Greater London",
+    "direccion": "13 Ganton Street, Carnaby, London, W1F 9BL",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=El%20Pollote%20%E2%80%93%20Carnaby%2013%20Ganton%20Street%2C%20Carnaby%2C%20London%2C%20W1F%209BL",
+    "telefono": null,
+    "sitioWeb": "http://www.elpollote.co.uk/",
+    "redes": [],
+    "categoria": "Restaurante",
+    "fechaAgregado": "2026-10-08"
+  },
+  {
     "id": "guasa",
     "nombre": "Guasa",
     "pais": "Inglaterra",
@@ -218,6 +231,19 @@
     "fechaAgregado": "2026-10-08",
     "latitude": 55.8579349,
     "longitude": -4.2242124
+  },
+  {
+    "id": "la-pepia",
+    "nombre": "La Pepiá",
+    "pais": "Inglaterra",
+    "county": "Greater London",
+    "direccion": "Borough Market, 8 Bedale Street, London, SE1 9AL",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20Pepi%C3%A1%20Borough%20Market%2C%208%20Bedale%20Street%2C%20London%2C%20SE1%209AL",
+    "telefono": null,
+    "sitioWeb": "https://lapepialdn.com/",
+    "redes": [],
+    "categoria": "Arepas",
+    "fechaAgregado": "2026-10-08"
   },
   {
     "id": "liqui-liqui",
@@ -315,6 +341,19 @@
     "longitude": -0.116787
   },
   {
+    "id": "panas-latin-food-canning-town",
+    "nombre": "Panas Latin Food – Canning Town (The Lockdown Room)",
+    "pais": "Inglaterra",
+    "county": "Greater London",
+    "direccion": "Hopewell Square, Leamouth Peninsula, London, E14 0SY",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Panas%20Latin%20Food%20%E2%80%93%20Canning%20Town%20(The%20Lockdown%20Room)%20Hopewell%20Square%2C%20Leamouth%20Peninsula%2C%20London%2C%20E14%200SY",
+    "telefono": "+44 7306 330062",
+    "sitioWeb": "http://www.peterspanas.com/",
+    "redes": [],
+    "categoria": "Arepas",
+    "fechaAgregado": "2026-10-08"
+  },
+  {
     "id": "papelon-leather-lane",
     "nombre": "Papelón – Leather Lane",
     "pais": "Inglaterra",
@@ -402,12 +441,30 @@
     "direccion": "Woolwich Market, Beresford Square, London, SE18 6AY",
     "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Woolwich%20Market%2C%20Beresford%20Square%2C%20London%2C%20SE18%206AY",
     "telefono": "+44 7306 330062",
-    "sitioWeb": null,
+    "sitioWeb": "http://www.peterspanas.com/",
     "redes": [],
     "categoria": "Restaurante",
     "fechaAgregado": "2026-10-08",
     "latitude": 51.4911065,
     "longitude": 0.0689731
+  },
+  {
+    "id": "point-criollo-uk",
+    "nombre": "Point Criollo UK",
+    "pais": "Inglaterra",
+    "county": "Greater London",
+    "direccion": "Unit B, 333 Walworth Road, Elephant and Castle, London, SE17 2TG",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Point%20Criollo%20UK%20Unit%20B%2C%20333%20Walworth%20Road%2C%20Elephant%20and%20Castle%2C%20London%2C%20SE17%202TG",
+    "telefono": "+44 7557 539389",
+    "sitioWeb": null,
+    "redes": [
+      {
+        "plataforma": "Instagram",
+        "handle": "@pointcriollouk"
+      }
+    ],
+    "categoria": "Restaurante",
+    "fechaAgregado": "2026-10-08"
   },
   {
     "id": "sabor-criollo",
@@ -423,5 +480,31 @@
     "fechaAgregado": "2026-10-08",
     "latitude": 55.9582634,
     "longitude": -3.2095901
+  },
+  {
+    "id": "streat-latin-food-st-pauls",
+    "nombre": "Streat Latin Food – St Paul's",
+    "pais": "Inglaterra",
+    "county": "Greater London",
+    "direccion": "Unit 4, Market Place Food Hall St Paul's, 150 Cheapside, London, EC2V 6ET",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Streat%20Latin%20Food%20%E2%80%93%20St%20Paul's%20Unit%204%2C%20Market%20Place%20Food%20Hall%20St%20Paul's%2C%20150%20Cheapside%2C%20London%2C%20EC2V%206ET",
+    "telefono": null,
+    "sitioWeb": "https://streatarepas.co.uk/",
+    "redes": [],
+    "categoria": "Arepas",
+    "fechaAgregado": "2026-10-08"
+  },
+  {
+    "id": "the-upper-place",
+    "nombre": "The Upper Place",
+    "pais": "Inglaterra",
+    "county": "Greater London",
+    "direccion": "1st floor, Nag's Head Market, 22 Seven Sisters Road, London, N7 6AG",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Upper%20Place%201st%20floor%2C%20Nag's%20Head%20Market%2C%2022%20Seven%20Sisters%20Road%2C%20London%2C%20N7%206AG",
+    "telefono": null,
+    "sitioWeb": "http://theupperplace.co.uk/",
+    "redes": [],
+    "categoria": "Restaurante",
+    "fechaAgregado": "2026-10-08"
   }
 ]
