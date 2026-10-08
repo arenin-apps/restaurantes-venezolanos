@@ -95,19 +95,48 @@
     "longitude": -1.0833617
   },
   {
+    "id": "arepa-junction",
+    "nombre": "Arepa Junction",
+    "pais": "Inglaterra",
+    "county": "Surrey",
+    "direccion": "Station Approach, Weybridge, KT13 8UD",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Arepa%20Junction%20Station%20Approach%2C%20Weybridge%2C%20KT13%208UD",
+    "telefono": "+44 1932 391413",
+    "sitioWeb": null,
+    "redes": [],
+    "categoria": "Arepas",
+    "fechaAgregado": "2026-10-08"
+  },
+  {
     "id": "arepazo-bros",
     "nombre": "Arepazo Bros",
     "pais": "Inglaterra",
     "county": "Greater London",
-    "direccion": "Ely's Yard, West Yard, Camden, London, NW1 8AF",
-    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ely's%20Yard%2C%20West%20Yard%2C%20Camden%2C%20London%2C%20NW1%208AF",
-    "telefono": "+44 7478 907765",
-    "sitioWeb": null,
+    "direccion": "49-50 Camden Lock Place, London, NW1 8AF",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Arepazo%20Bros%2049-50%20Camden%20Lock%20Place%2C%20London%2C%20NW1%208AF",
+    "telefono": "+44 7721 735552",
+    "sitioWeb": "http://arepazobros.co.uk/",
     "redes": [],
     "categoria": "Comida rápida",
-    "fechaAgregado": "2026-10-08",
-    "latitude": 51.5413104,
-    "longitude": -0.1464357
+    "fechaAgregado": "2026-10-08"
+  },
+  {
+    "id": "avila-london",
+    "nombre": "Avila London",
+    "pais": "Inglaterra",
+    "county": "Greater London",
+    "direccion": "Leather Lane, Pitch 71, London, EC1N 7UY",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Avila%20London%20Leather%20Lane%2C%20Pitch%2071%2C%20London%2C%20EC1N%207UY",
+    "telefono": "+44 7718 997655",
+    "sitioWeb": null,
+    "redes": [
+      {
+        "plataforma": "Instagram",
+        "handle": "@avilalondon"
+      }
+    ],
+    "categoria": "Arepas",
+    "fechaAgregado": "2026-10-08"
   },
   {
     "id": "cha-cha-take-away",
@@ -204,8 +233,8 @@
     "nombre": "Los Chamos",
     "pais": "Inglaterra",
     "county": "Greater London",
-    "direccion": "Arch 145, Eagle Yard, Hampton Street, Elephant & Castle, London, SE1 6SP",
-    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Arch%20145%2C%20Eagle%20Yard%2C%20Hampton%20Street%2C%20Elephant%20%26%20Castle%2C%20London%2C%20SE1%206SP",
+    "direccion": "145 Eagle Yard Arch, Maldonado Walk, Hampton Street, London, SE1 6SP",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Los%20Chamos%20145%20Eagle%20Yard%20Arch%2C%20Maldonado%20Walk%2C%20Hampton%20Street%2C%20London%2C%20SE1%206SP",
     "telefono": null,
     "sitioWeb": null,
     "redes": [
@@ -215,9 +244,7 @@
       }
     ],
     "categoria": "Arepas",
-    "fechaAgregado": "2026-10-08",
-    "latitude": 51.4926809,
-    "longitude": -0.0992286
+    "fechaAgregado": "2026-10-08"
   },
   {
     "id": "mi-cocina-es-tuya",
@@ -263,6 +290,91 @@
     "fechaAgregado": "2026-10-08",
     "latitude": 53.4668383,
     "longitude": -2.9490118
+  },
+  {
+    "id": "pabellon-venezuelan-food",
+    "nombre": "Pabellon Venezuelan Food",
+    "pais": "Inglaterra",
+    "county": "Greater London",
+    "direccion": "Southbank Centre, London, SE1 8XX",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pabellon%20Venezuelan%20Food%20Southbank%20Centre%2C%20London%2C%20SE1%208XX",
+    "telefono": "+44 7873 978483",
+    "sitioWeb": "http://www.pabellon.co.uk/",
+    "redes": [],
+    "categoria": "Restaurante",
+    "fechaAgregado": "2026-10-08"
+  },
+  {
+    "id": "papelon-leather-lane",
+    "nombre": "Papelón – Leather Lane",
+    "pais": "Inglaterra",
+    "county": "Greater London",
+    "direccion": "Leather Lane, London, EC1N 7TJ",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Papel%C3%B3n%20%E2%80%93%20Leather%20Lane%20Leather%20Lane%2C%20London%2C%20EC1N%207TJ",
+    "telefono": "+44 7481 281611",
+    "sitioWeb": "https://papelond.com/",
+    "redes": [
+      {
+        "plataforma": "Instagram",
+        "handle": "@papelond"
+      }
+    ],
+    "categoria": "Arepas",
+    "fechaAgregado": "2026-10-08"
+  },
+  {
+    "id": "papelon-netil-house",
+    "nombre": "Papelón – Netil House (Hackney)",
+    "pais": "Inglaterra",
+    "county": "Greater London",
+    "direccion": "Netil House, Westgate Street, London, E8 3RL",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Papel%C3%B3n%20%E2%80%93%20Netil%20House%20(Hackney)%20Netil%20House%2C%20Westgate%20Street%2C%20London%2C%20E8%203RL",
+    "telefono": "+44 7481 281611",
+    "sitioWeb": "https://papelond.com/",
+    "redes": [
+      {
+        "plataforma": "Instagram",
+        "handle": "@papelond"
+      }
+    ],
+    "categoria": "Arepas",
+    "fechaAgregado": "2026-10-08"
+  },
+  {
+    "id": "papelon-notting-hill",
+    "nombre": "Papelón – Notting Hill",
+    "pais": "Inglaterra",
+    "county": "Greater London",
+    "direccion": "1/1 Ladbroke Grove, London, W10 6HJ",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Papel%C3%B3n%20%E2%80%93%20Notting%20Hill%201%2F1%20Ladbroke%20Grove%2C%20London%2C%20W10%206HJ",
+    "telefono": "+44 7481 281611",
+    "sitioWeb": "https://papelond.com/",
+    "redes": [
+      {
+        "plataforma": "Instagram",
+        "handle": "@papelond"
+      }
+    ],
+    "categoria": "Arepas",
+    "fechaAgregado": "2026-10-08"
+  },
+  {
+    "id": "papelon-portobello",
+    "nombre": "Papelón – Portobello (Acklam Road)",
+    "pais": "Inglaterra",
+    "county": "Greater London",
+    "direccion": "2 Acklam Road, London, W10 5QZ",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Papel%C3%B3n%20%E2%80%93%20Portobello%20(Acklam%20Road)%202%20Acklam%20Road%2C%20London%2C%20W10%205QZ",
+    "telefono": "+44 7481 281611",
+    "sitioWeb": "https://papelond.com/",
+    "redes": [
+      {
+        "plataforma": "Instagram",
+        "handle": "@papelond"
+      }
+    ],
+    "categoria": "Arepas",
+    "fechaAgregado": "2026-10-08"
   },
   {
     "id": "peter-s-panas",
