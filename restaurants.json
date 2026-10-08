@@ -10,7 +10,9 @@
     "sitioWeb": "https://www.arepaandco.com/",
     "redes": [],
     "categoria": "Arepas",
-    "fechaAgregado": "2026-10-08"
+    "fechaAgregado": "2026-10-08",
+    "latitude": 51.5285808,
+    "longitude": -0.0562229
   },
   {
     "id": "arepa-co-brixton",
@@ -36,7 +38,9 @@
     "sitioWeb": "https://www.arepaandco.com/",
     "redes": [],
     "categoria": "Arepas",
-    "fechaAgregado": "2026-10-08"
+    "fechaAgregado": "2026-10-08",
+    "latitude": 51.4936017,
+    "longitude": -0.0966168
   },
   {
     "id": "arepa-co-haggerston",
@@ -49,6 +53,8 @@
     "sitioWeb": "https://www.arepaandco.com/",
     "redes": [],
     "categoria": "Arepas",
-    "fechaAgregado": "2026-10-08"
+    "fechaAgregado": "2026-10-08",
+    "latitude": 51.5371209,
+    "longitude": -0.0801256
   }
 ]
