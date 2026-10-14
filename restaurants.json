@@ -145,6 +145,24 @@
     "longitude": -0.10971
   },
   {
+    "id": "base-sazon",
+    "nombre": "Base & Sazon",
+    "pais": null,
+    "county": null,
+    "direccion": null,
+    "mapsUrl": null,
+    "telefono": null,
+    "sitioWeb": "https://www.instagram.com/baseandsazon?dlrf=aDVkZzFpNmY1bGI1",
+    "redes": [
+      {
+        "plataforma": "Instagram",
+        "handle": "@baseandsazon"
+      }
+    ],
+    "categoria": null,
+    "fechaAgregado": "2026-10-14"
+  },
+  {
     "id": "cha-cha-take-away",
     "nombre": "Cha Cha Take Away",
     "pais": "Inglaterra",
